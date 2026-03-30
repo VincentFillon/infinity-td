@@ -85,4 +85,4 @@ npx cap open android
 ---
 
 ## 📜 Licence
-Projet développé dans le cadre d'un cycle de professionnalisation de gameplay. Tous droits réservés.
+Ce projet est open source et distribué sous la licence **MIT**.
